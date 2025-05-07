@@ -1,0 +1,497 @@
+﻿bibkey,phenomenon_taxonomy_root,phenomenon_taxonomy_leaf,phenomenon_taxonomy_alternate,validate_taxonomy
+mundlerSWTBenchTestingValidating2024,Agents,Coding,,Agents - Coding
+yangLLMCBenchBenchmarkingLarge2024,,,,
+davidsonEvaluatingLanguageModel2024,Alignment,Alignment,,Alignment - Alignment
+helweMAFALDABenchmarkComprehensive2024,Reasoning,Logical,,Reasoning - Logical
+niuRAGTruthHallucinationCorpus2024,Retrieval,,Factuality,Retrieval - 
+wangIELMOpenInformation2022,NLP,Extraction,,NLP - Extraction
+heTGEAErrorAnnotatedDataset2021,Factuality,,,
+heCanWeTrust2024,,,,
+huangCEvalMultiLevelMultiDiscipline2023,Reasoning,"Reasoning, Knowledge",Cultural Knowledge,
+myungBLEnDBenchmarkLLMs2024,Knowledge,Cultural,,Knowledge - Cultural
+yaoWebShopScalableRealWorld2022,Agents,Web,,Agents - Web
+sanyalRobustLRDiagnosticBenchmark2022,Reasoning,Logical,Robustness,Reasoning - Logical
+albalakFETABenchmarkFewSample2022,Language Modelling,In-context Learning,,Language Modelling - In-context Learning
+beanLINGOLYBenchmarkOlympiadLevel2024,Reasoning,Logical,,Reasoning - Logical
+nasirGameTraversalBenchmarkEvaluatingPlanning2024,Reasoning,Planning,,Reasoning - Planning
+feiLawBenchBenchmarkingLegal2024,Law,,,Law - 
+kewBLESSBenchmarkingLarge2023,,,,
+yuksekgonulWhenWhyVisionlanguage2023,Reasoning,Compositional,,Image Processing - 
+xieWhodunitBenchEvaluatingLarge2024,Agents,General,,Agents - General
+jiangGenRESRethinkingEvaluation2024,,,,
+saparinaAMBROSIABenchmarkParsing2024,Code Generation,Natural Language,,Code Generation - Natural Language
+augustyniakThisWayDesigning2022,Multilinguality,,,Multilinguality - 
+huiUDABenchmarkSuite2024,Retrieval,,,Retrieval - 
+xiaFOFOBenchmarkEvaluate2024,Instruction Following,,,Instruction Following - 
+wangMINTEvaluatingLLMs2024,Agents,Coding,,Agents - Coding
+valmeekamPlanBenchExtensibleBenchmark2023,Reasoning,Planning,,Reasoning - Planning
+zhangMELAMultilingualEvaluation2024,Multilinguality,,,Multilinguality - 
+etxanizLatxaOpenLanguage2024,Multilinguality,,,Multilinguality - 
+tangStrucbenchAreLarge2024,Code Generation,,,Code Generation - 
+schiappaRobustnessAnalysisVideolanguage2022,,,,
+riemenschneiderExploringLargeLanguage2023,Multilinguality,,,Multilinguality - 
+yuanRevisitingOutofdistributionRobustness2023,,,,
+zoharLOVMLanguageonlyVision2023,,,,
+qiPreservingKnowledgeInvariance2023,NLP,Extraction,,NLP - Extraction
+shahWhenFLUEMeets2022,Finance,,,Finance - 
+kalyanWikiDONewBenchmark2024,Retrieval,,,Retrieval -
+marchisioUnderstandingMitigatingLanguage2024,Multilinguality,,,Multilinguality - 
+itoGeneralizationCapacityNeural2024,Language Modelling,Adaptability,,Language Modelling - Adaptability
+liMultimodalArXivDataset2024,NLP,Understanding,,Image Processing - 
+zouVGBenchEvaluatingLarge2024,Instruction Following,,,Image Processing - 
+zhangXSemPLRCrosslingualSemantic2023,Multilinguality,,,Multilinguality - 
+kimCarpeDiemEvaluation2024,Multilinguality,,,Multilinguality - 
+sunInformalLanguageProcessing2024,Multilinguality,,,Multilinguality - 
+wangPretrainingLanguageModel2023,Biology,,,Biology - 
+bajpaiCanLLMsReplace2024,General Science,,,General Science - 
+hauserLargeLanguageModelsExpertlevel2024,History,,,History - 
+sadatMSciNLIDiverseBenchmark2024,General Science,,,General Science - 
+dengNewTermBenchmarkingRealtime2024,Language Modelling,Updating,,Language Modelling - Updating
+changLocalizationMethodsActually2024,,,,
+yeRoTBenchMultilevelBenchmark2024,Agents,Tool Use,,Agents - Tool Use
+maMMLONGBENCHDOCBenchmarkingLongcontext2024,NLP,Long Context,,NLP - Long Context
+kuratovBABILongTestingLimits2024,NLP,Long Context,,NLP - Long Context
+wangAdaLEvalEvaluatingLongcontext2024,NLP,Long Context,,NLP - Long Context
+zhangAnalyzingTemporalComplex2024,NLP,Long Context,,NLP - Long Context
+saad-falconBenchmarkingBuildingLongcontext2024,,,,
+liLooGLECanLongcontext2024,NLP,Long Context,,NLP - Long Context
+wangLeaveNoDocument2024,NLP,Long Context,,NLP - Long Context
+senelCoDA21EvaluatingLanguage2022,NLP,Understanding,,NLP - Understanding
+anLevalInstitutingStandardized2024,NLP,Long Context,,NLP - Long Context
+zhangMarathonRaceRealm2024,NLP,Long Context,,NLP - Long Context
+zhangBenchExtendingLong2024,NLP,Long Context,,NLP - Long Context
+xuStresstestingLongcontextLanguage2024,Language Modelling,In-context Learning,,Language Modelling - In-context Learning
+kwanM4LEMultiabilityMultirange2024,NLP,Long Context,,NLP - Long Context
+baiLongBenchBilingualMultitask2024,NLP,Long Context,,NLP - Long Context
+mahbubUnveilingEssencePoetry2023,NLP,Summarization,,NLP - Summarization
+fernandezSyllabusQACourseLogistics2024,Retrieval,,,Retrieval - 
+suLivingMomentCan2024,Reasoning,Temporal,,Reasoning - Temporal
+krojerImageRetrievalContextual2022,Retrieval,,,Image Processing - 
+rayColaBenchmarkCompositional2023,Reasoning,Compositional,,Reasoning - Compositional
+bhaskarBenchmarkingImprovingTexttoSQL2023,Code Generation,Natural Lanuage,,
+xuPEERComprehensiveMultitask2022,Biology,,,Biology - 
+jangTemporalWikiLifelongBenchmark2022,Language Modelling,Updating,,Language Modelling - Updating
+liuAgentBenchEvaluatingLLMs2024,Agents,General,,Agents - General
+huangMetaToolBenchmarkLarge2024,Agents,Tool Use,,Agents - Tool Use
+huangMLAgentBenchEvaluatingLanguage2024,Agents,Coding,,Agents - Coding
+yeGlobeSummChallengingBenchmark2024,NLP,Summarization,Multilinguality,NLP - Summarization
+huSportsMetricsBlendingText2024,Reasoning,Mathematical,,Reasoning - Mathematical
+choiLoTabenchBenchmarkingLanguageoriented2024,Reasoning,Planning,,Reasoning - Planning
+huUnderstandingFactualKnowledge2024,,,,
+songSLINGSinoLinguistic2022,Multilinguality,,,Multilinguality - 
+athiwaratkunMultilingualEvaluationCode2023,Code Generation,,,Code Generation - 
+pengCOPENProbingConceptual2022,NLP,Understanding,,NLP - Understanding
+hardalovBgGLUEBulgarianGeneral2023,NLP,Understanding,Multilinguality,NLP - Understanding
+liuEfficientNLPStandard2022,,,,
+kwanMTevalMultiturnCapabilities2024,User Interaction,,,User Interaction - 
+naousReadMeBenchmarkingMultilingual2024,NLP,,,NLP - 
+hengleStillNotQuite2024,Mental Health,,,Mental Health -
+shavrinaRussianSuperGLUERussianLanguage2020,NLP,Understanding,Multilinguality,NLP - Understanding
+taktashevaRuBLiMPRussianBenchmark2024,NLP,,Multilinguality,NLP - 
+liInfiBenchEvaluatingQuestionanswering2024,Code Generation,,,Code Generation - 
+patelDARTevalComprehensiveDNA2024,,,,
+duMercuryCodeEfficiency2024,Code Generation,,,Code Generation - 
+xieFinBenHolisticFinancial2024,,,,
+xiePIXIUComprehensiveBenchmark2023,,,,
+linghuMultimodalSituatedReasoning2024,Reasoning,,,Reasoning - 
+wuSTaRKBenchmarkingLLM2024,Retrieval,,,Retrieval - 
+krumdickBizBenchQuantitativeReasoning2024,Finance,,,Finance - 
+ghoshEPiCEmployingProverbs2022,Reasoning,Logical,,Reasoning - Logical
+yuanUnlockingMarketsMultilingual2024,Retrieval,,,Retrieval - 
+guoOpenGroundedPlanning2024,,,,
+berdicevskisSuperlimSwedishLanguage2023,NLP,Understanding,,NLP - Understanding
+liuAsEPBenchmarkingDeep2024,,,,
+wangMAVENARGCompletingPuzzle2024,NLP,Extraction,,NLP - Extraction
+jiangFollowBenchMultilevelFinegrained2024,Instruction Following,,,Instruction Following - 
+romanouCRABAssessingStrength2023,Reasoning,,,Reasoning - 
+zhaoFinanceMATHKnowledgeintensiveMath2024,Reasoning,Mathematics,Finance,
+zhaoFinDVerExplainableClaim2024,Finance,,,Finance - 
+magnussonPalomaBenchmarkEvaluating2024,Domain Applications,,,Domain Applications - 
+tangTofuEvalEvaluatingHallucinations2024,NLP,Summarization,,NLP - Summarization
+casolaMultiPICoMultilingualPerspectivist2024,NLP,,,NLP - 
+yeFedLLMbenchRealisticBenchmarks2024,,,,
+jinRWKUBenchmarkingRealworld2024,Language Modelling,Unlearning,,Language Modelling - Unlearning
+jiangXFACTRMultilingualFactual2020,Knowledge,General,Multilinguality,Knowledge - General
+yuKoLACarefullyBenchmarking2024,Knowledge,General,,Knowledge - General
+subbiahSTORYSUMMEvaluatingFaithfulness2024,NLP,Summarization,,NLP - Summarization
+zhengNEOBENCHEvaluatingRobustness2024,Language Modelling,Updating,,Language Modelling - Updating
+pfisterSuperGLEBerGermanLanguage2024,NLP,Understanding,,NLP - Understanding
+asthanaEvaluatingLLMsTargeted2024,NLP,Summarization,,NLP - Summarization
+campagnanoSRL4ESemanticRole2022,,,,
+karpinskaOneThousandOne2024,NLP,Long Context,,NLP - Long Context
+zhaoQTSummQueryfocusedSummarization2023,Code Generation,,,Code Generation - 
+suTextttConflictBankBenchmarkEvaluating2024,Factuality,,,
+yangCRAGComprehensiveRAG2024,Retrieval,,,Retrieval - 
+zhangSelenePioneeringAutomated2024,Code Generation,,,Code Generation - 
+songMatSciNLPEvaluatingScientific2023,,,,
+aiAdvancementGraphUnderstanding2024,,,,
+gharaeeBIOSCAN5MMultimodalDataset2024,Biology,,,Biology - 
+coda-fornoCogBenchLargeLanguage2024,Psychology,,,Psychology - 
+liTEGDBComprehensiveDataset2024,NLP,Extraction,,NLP - Extraction
+mitaStrikingGoldAdvertising2024,Business,,,Business - 
+jacoviChainofthoughtStrongIts2024,Reasoning,Logical,,Reasoning - Logical
+tanzerBenchmarkLearningTranslate2024,Language Modelling,In-context Learning,,Language Modelling - In-context Learning
+ribeiroSTREETMULTITASKSTRUCTURED2023,Reasoning,,,Reasoning - 
+yangDataTalesBenchmarkRealworld2024,Data Analysis,,,Data Analysis - 
+guptaTempTabQATemporalQuestion2023,Language Modelling,Updating,,Language Modelling - Updating
+liangSceMQAScientificCollege2024,General Science,,,General Science - 
+zhangHumorAIMassive2024,NLP,Understanding,,NLP - Understanding
+liMEQABenchmarkMultihop2024,Reasoning,,,Reasoning - 
+hoWikiWhyAnsweringExplaining2023,Reasoning,Commonsense,,Reasoning - Commonsense
+sunRevealingPersonalityTraits2024,Psychology,,,Psychology - 
+zhangMultimodalSelfinstructSynthetic2024,Reasoning,Compositional,,Image Processing - 
+maExaminationCompositionalityLarge2024,Reasoning,Compositional,,Image Processing - 
+huangMetaLogicLogicalReasoning2022,Reasoning,Logical,,Reasoning - Logical
+leeQASAAdvancedQuestion2023,Reasoning,Logical,,Reasoning - Logical
+mirzaeeSPARTQATextualQuestion2021,Reasoning,Spatial,,Reasoning - Spatial
+bhargavaDiscoSenseCommonsenseReasoning2022,Reasoning,Commonsense,,Reasoning - Commonsense
+hsiehSugarCrepeFixingHackable2023,Reasoning,Compositional,,Reasoning - Compositional
+renBEACONBenchmarkComprehensive2024,Biology,,,Biology - 
+maSpreadsheetBenchChallengingReal2024,Code Generation,,,Code Generation - 
+guptaBiphoneModelingInter2023,NLP,Understanding,,NLP - Understanding
+zhuAreLargeLanguage2024,Data Analysis,,,Data Analysis - 
+houWikiContradictBenchmarkEvaluating2024,Knowledge,Conflicts,,Knowledge - Conflicts
+konIaCevalCodeGeneration2024,Code Generation,,,Code Generation - 
+waghjaleECCOCanWe2024,Code Generation,,,Code Generation - 
+wuClashEvalQuantifyingTugofwar2024,Knowledge,Conflicts,,Knowledge - Conflicts
+pressCiteMECanLanguage2024,Agents,General,,Agents - General
+jinShoppingMMLUMassive2024,Agents,Web Agent,,
+zhuangToolQADatasetLLM2023,Agents,Tool Use,,Agents - Tool Use
+chenCopyBenchMeasuringLiteral2024,Language Modelling,Copyright,,
+liGLBenchComprehensiveBenchmark2024,,,,
+ajithLitSearchRetrievalBenchmark2024,General Science,,,General Science - 
+heMedEvalMultilevelMultitask2023,Medicine,,,Medicine - 
+duPAGEDBenchmarkProcedural2024,NLP,Extraction,,NLP - Extraction
+zhangRevisitingZerothorderOptimization2024,,,,
+huangPositionTrustLLMTrustworthiness2024,,,,
+zhangToolBeHonestMultilevelHallucination2024,Agents,Tool Use,,Agents - Tool Use
+jinMARPLEBenchmarkLonghorizon2024,,,,
+yeBenchmarkingLlmsUncertainty2024,Language Modelling,Calibration,,
+maiapoloTinyBenchmarksEvaluatingLLMs2024,,,,
+guoWhatCanLarge2023,Chemistry,,,Chemistry - 
+wangCanLanguageModels2023,NLP,Extraction,,NLP - Extraction
+wuStreamBenchBenchmarkingContinuous2024,NLP,Updating,,NLP - Updating
+alwajihPeacockFamilyArabic2024,,,,
+piUOUOUncontextualizedUncommon2024,Grounding,,,Image Processing - 
+billahnagoudiJASMINEArabicGPT2023,NLP,,Multilinguality,NLP - 
+corneliusBUSTBenchmarkEvaluation2024,,,,
+changDrspiderDiagnosticEvaluation2023,Code Generation,Natural Language,,Code Generation - Natural Language
+zengEvaluatingLargeLanguage2024,Instruction Following,,,Instruction Following - 
+xuMAgICInvestigationLarge2024,Agents,,,Agents - 
+yanComprehensiveStudyTextattributed2023,NLP,Extraction,,NLP - Extraction
+liCanLargeLanguage2024,NLP,Extraction,,NLP - Extraction
+zhangDTGBComprehensiveBenchmark2024,NLP,Extraction,,NLP - Extraction
+huangEmbraceDivergenceRicher2024,NLP,Summarization,,NLP - Summarization
+amarOpenAspBenchmarkMultidocument2023,NLP,Summarization,,NLP - Summarization
+luMathVistaEvaluatingMathematical2024,Reasoning,Mathematics,,
+liuRevisitingGoldStandard2023,NLP,Summarization,,NLP - Summarization
+cheangCanLMsGeneralize2023,NLP,Summarization,,NLP - Summarization
+liNewsBenchSystematicEvaluation2024,NLP,,,NLP - 
+mouSGbenchEvaluatingLLM2024,,,,
+madanRevisitingFewshotObject2024,,,,
+dengMobilebenchEvaluationBenchmark2024,Agents,Web,,Agents - Web
+romeroCVQACulturallydiverseMultilingual2024,Knowledge,Cultural,,Knowledge - Cultural
+shaoNYUCTFBench2024,Agents,Web,,Agents - Web
+chenAreWeRight2024,VQA,,,Image Processing - 
+jiLargeLanguageModels2024,Alignment,Alignment,,Alignment - Alignment
+caoWorstPromptPerformance2024,Language Modelling,Robustness,,Language Modelling - Robustness
+liFIREDatasetFeedback2024,Language Modelling,Updating,,Language Modelling - Updating
+choiLLMsUnderstandSocial2023,,,,
+wangLargeLanguageModels2024,,,,
+wangPandaLMAutomaticEvaluation2024,,,,
+huangEffiBenchBenchmarkingEfficiency2024,Code Generation,,,Code Generation - 
+chaoJailbreakBenchOpenRobustness2024,Alignment,Alignment,,Alignment - Alignment
+xuBagTricksBenchmarking2024,,,,
+wangPictureWorthThousand2024,Reasoning,Spatial,,Reasoning - Spatial
+kasaiRealTimeQAWhats2023,NLP,Updating,,NLP - Updating
+akhbariSETLEXSEMCHALLENGEUsing2024,Language Modelling,Robustness,,Language Modelling - Robustness
+ahujaMEGAMultilingualEvaluation2023,,,,
+tanBenchmarkingImprovingTemporal2023,Reasoning,Temporal,,Reasoning - Temporal
+wangJourneyBenchChallengingOnestop2024,Retrieval,,,Image Processing - 
+zhangSkippedBeatStudy2023,,,,
+sonMultitaskInferenceCan2024,,,,
+luLearnExplainMultimodal2022,Reasoning,,,Reasoning - 
+zhangMultilingualLargeLanguage2023,,,,
+liMembershipInferenceAttacks2024,,,,
+chenDrAcademyBenchmarkEvaluating2024,Education,,,Education - 
+lyuMMScanMultimodal3D2024,Grounding,,,Image Processing - 
+heExploringCapacityPretrained2023,Reasoning,Planning,,Reasoning - Planning
+edmanCUTEMeasuringLLMs2024,NLP,,,NLP - 
+tianSciCodeResearchCoding2024,Code Generation,,,Code Generation - 
+liuGeneralLoopInvariant2024,,,,
+liWhenLlmsMeet2024,Reasoning,Logical,,Reasoning - Logical
+wangNeedleMultimodalHaystack2024,NLP,Long Context,,NLP - Long Context
+yuMMvetEvaluatingLarge2024,VQA,,,Image Processing - 
+zhangMIntRec20LargescaleBenchmark2024,NLP,Understanding,,NLP - Understanding
+shenTaskBenchBenchmarkingLarge2024,Agents,Tool Use,,Agents - Tool Use
+huangDAcodeAgentData2024,Code Generation,,Data Science,Code Generation - 
+parcalabescuVALSETaskindependentBenchmark2022,VQA,,,Image Processing - 
+huangConMeRethinkingEvaluation2024,Reasoning,Compositional,,Reasoning - Compositional
+geTGEA20Largescale2022,,,,
+liEvoCodeBenchEvolvingCode2024,Code Generation,,,Code Generation - 
+marinBENDBenchmarkingDNA2024,,,,
+gongEvaluationLLMsSyntaxaware2024,Code Generation,,,Code Generation - 
+bhatiaLocalConceptsUniversals2024,Knowledge,Cultural,,Knowledge - Cultural
+kannenAestheticsCulturalCompetence2024,Knowledge,Cultural,,Knowledge - Cultural
+yangInterCodeStandardizingBenchmarking2023,Agents,Coding,,Agents - Coding
+yanCodeScopeExecutionbasedMultilingual2024,Code Generation,,,Code Generation - 
+zhangCarefulExaminationLarge2024,Reasoning,Mathematics,,
+wuEvaluatingAnalyzingRelationship2024,VQA,,,Image Processing - 
+liNaturalBenchEvaluatingVisionlanguage2024,Language Modelling,Robustness,,Image Processing - 
+yinSafeWorldGeodiverseSafety2024,Alignment,Safety,,Alignment - Safety
+liuRepoBenchBenchmarkingRepositorylevel2024,Code Generation,,,Code Generation - 
+zhangBenchmarkingDataScience2024,Code Generation,,,Code Generation - 
+kimFANToMBenchmarkStresstesting2023,Theory of Mind,,,Theory of Mind - 
+huInfiAgentDABenchEvaluatingAgents2024,Code Generation,,,Code Generation - 
+fanNPHardEvalDynamicBenchmark2024,Reasoning,,,Reasoning - 
+wangCanLanguageModels2024,Grounding,,,Grounding - 
+liGSMplusComprehensiveBenchmark2024,Reasoning,Mathematical,,Reasoning - Mathematical
+zhangMultiTrustComprehensiveBenchmark2024,Alignment,Safety,,Alignment - Safety
+bittonVisITbenchDynamicBenchmark2023,Instruction Following,,,Instruction Following - 
+singhIndicGenBenchMultilingualBenchmark2024,NLP,,Multilinguality,NLP - 
+castillo-boladoPromptsDynamicConversational2024,NLP,Long Context,,NLP - Long Context
+chuTimeBenchComprehensiveEvaluation2024,Reasoning,Temporal,,Reasoning - Temporal
+srinivasanCLiMBContinualLearning2022,Language Modelling,Updating,,Language Modelling - Updating
+liVRSBenchVersatileVisionlanguage2024,VQA,,,Image Processing - 
+linTruthfulQAMeasuringHow2022,Alignment,Alignment,,Alignment - Alignment
+samdarshiConnectingDotsEvaluating2024,Reasoning,,,Reasoning - 
+herediaXNLIeuDatasetCrosslingual2024,NLP,Understanding,Multilinguality,NLP - Understanding
+alamCTIBenchBenchmarkEvaluating2024,Alignment,Safety,,Alignment - Safety
+chenCoINBenchmarkContinual2024,,,,
+jinJailbreakingLargeLanguage2024,Alignment,Safety,,Alignment - Safety
+zhouVLUEMultitaskMultidimension2022,Language Modelling,Adaptability,,Language Modelling - Adaptability
+liEmbodiedAgentInterface2024,,,,
+liuExposingAttentionGlitches2023,NLP,Long Context,,NLP - Long Context
+merdjanovskaNoiseBenchBenchmarkingImpact2024,NLP,Extraction,,NLP - Extraction
+jinMMToMQAMultimodalTheory2024,Theory of Mind,,,Theory of Mind - 
+dengCOLDBenchmarkChinese2022,Alignment,Safety,,Alignment - Safety
+saxonWhoEvaluatesEvaluations2024,,,,
+krojerAreDiffusionModels2023,Grounding,,,Image Processing - 
+tsurutaSARSCoV2InteractionDataset2024,Biology,,,Biology - 
+maAgentBoardAnalyticalEvaluation2024,Reasoning,Planning,,Reasoning - Planning
+maruNibblingHardCore2022,NLP,Understanding,,NLP - Understanding
+chenCurriculumBroadcoverageBenchmark2022,NLP,Understanding,,NLP - Understanding
+xieOSWorldBenchmarkingMultimodal2024,Agents,Tool Use,,Agents - Tool Use
+dasEXAMSVMultidisciplineMultilingual2024,VQA,,,Image Processing - 
+jiangBRAINTEASERLateralThinking2023,Reasoning,,,Reasoning - 
+ushioGenerativeLanguageModels2022,NLP,Extraction,,NLP - Extraction
+gingOpenendedVQABenchmarking2024,VQA,,,Image Processing - 
+hwangMultitaskBenchmarkKorean2022,Law,,,Law - 
+shiLargeLanguageModels2023,Reasoning,Mathematical,,Reasoning - Mathematical
+xuMultiInstructImprovingMultimodal2023,,,,
+leeVHELMHolisticEvaluation2024,VQA,,,Image Processing - 
+wangM4GTbenchEvaluationBenchmark2024,NLP,,,NLP - 
+comsaBenchmarkReasoningSpatial2023,Reasoning,Spatial,,Reasoning - Spatial
+luoCODISBenchmarkingContextdependent2024,VQA,,,Image Processing - 
+lalCaTbenchBenchmarkingLanguage2024,Reasoning,Planning,,Reasoning - Planning
+suActPlan1KBenchmarkingProcedural2024,Reasoning,Planning,,Reasoning - Planning
+yinGeoMLAMAGeodiverseCommonsense2022,Knowledge,Cultural,,Knowledge - Cultural
+kesenViLMAZeroshotBenchmark2024,Grounding,,,Grounding - 
+kurticMathadorLMDynamicBenchmark2024,Reasoning,Mathematical,,Reasoning - Mathematical
+zhangCABComprehensiveAttention2023,NLP,Long Context,,NLP - Long Context
+chenMLLMasajudgeAssessingMultimodal2024,LLM as a Judge,,,LLM as a Judge - 
+gandhiUnderstandingSocialReasoning2023,Theory of Mind,,,Theory of Mind - 
+bandarkarBelebeleBenchmarkParallel2024,NLP,Understanding,Multilinguality,NLP - Understanding
+panchalWhatSayWhen2024,User Interaction,,,User Interaction - 
+tianDiagnosingFirstorderLogical2021,Reasoning,Logical,,Reasoning - Logical
+zhouRICAEvaluatingRobust2021,Reasoning,Logical,,Reasoning - Logical
+agrawalLargeLanguageModels2022,NLP,Extraction,Medicine,NLP - Extraction
+guhaLegalBenchCollaborativelyBuilt2023,Law,,,Law - 
+chenToMBenchBenchmarkingTheory2024,Theory of Mind,,,Theory of Mind - 
+wuDetectRLBenchmarkingLLMgenerated2024,NLP,Detection,,NLP - Detection
+patelMultiLogiEvalEvaluatingMultistep2024,Reasoning,Logical,,Reasoning - Logical
+luWebLINXRealworldWebsite2024,Agents,Web,,Agents - Web
+zhangMuCGECMultireferenceMultisource2022,NLP,Understanding,,NLP - Understanding
+spragueMuSRTestingLimits2024,Reasoning,Commonsense,,Reasoning - Commonsense
+luWildVisionEvaluatingVisionlanguage2024,,,,
+caoWenMindComprehensiveBenchmark2024,Knowledge,Cultural,,Knowledge - Cultural
+ouyangCliMedBenchLargeScaleChinese2024,Medicine,,,Medicine - 
+huangRAVELEvaluatingInterpretability2024,,,,
+sabourEmoBenchEvaluatingEmotional2024,Psychology,,,Psychology - 
+garcia-ferreroThisNotDataset2023,NLP,Understanding,,NLP - Understanding
+josephFactPICOFactualityEvaluation2024,NLP,Summarization,,NLP - Summarization
+sungCanLanguageModels2021,,,,
+liuRevisitingDeIdentificationElectronic2023,Medicine,,,Medicine - 
+liuConvBenchMultiturnConversation2024,User Interaction,,,User Interaction - 
+dinhSciExBenchmarkingLarge2024,General Science,,,General Science - 
+zhangTaskMeAnything2024,,,,
+zhangUnveilingTapestryConsistency2024,Language Modelling,Robustness,,Language Modelling - Robustness
+fierroMuLanStudyFact2024,Reasoning,Temporal,,Reasoning - Temporal
+bitton-guettaVisualRiddlesCommonsense2024,VQA,,,Image Processing - 
+liQuantifyingAdaptabilityPretrained2022,Language Modelling,In-context Learning,,Language Modelling - In-context Learning
+duEmbSpatialbenchBenchmarkingSpatial2024,VQA,,,Image Processing - 
+chungCanVisualLanguage2024,Grounding,,,Image Processing - 
+kumarVisionlanguageModelsUnderstand2024,NLP,Understanding,,NLP - Understanding
+flachsGrammaticalErrorCorrection2020,NLP,Understanding,,NLP - Understanding
+joshiILTURBenchmarkIndian2024,Law,,,Law - 
+royBenchCLAMPBenchmarkEvaluating2023,NLP,Understanding,,NLP - Understanding
+ryanRevisitingNonEnglishText2023,NLP,Summarization,,NLP - Summarization
+siREADINChineseMultitask2023,Language Modelling,Robustness,,Language Modelling - Robustness
+schwettmannFINDFunctionDescription2023,Reasoning,,,Reasoning - 
+zuoPatentEvalUnderstandingErrors2024,Law,,,Law - 
+yinNaturalLanguageCode2023,Code Generation,,,Code Generation - 
+asaiBUFFETBenchmarkingLarge2024,Language Modelling,In-context Learning,Multilinguality,Language Modelling - In-context Learning
+hareshClevrSkillsCompositionalLanguage2024,Reasoning,Compositional,,Reasoning - Compositional
+hanMedSafetyBenchEvaluatingImproving2024,Medicine,,,Medicine - 
+shivagundeLargerProbesTell2023,NLP,Understanding,,NLP - Understanding
+wuSmartPlayBenchmarkLLMs2024,Agents,,,Agents - 
+liWMDPBenchmarkMeasuring2024,Alignment,Safety,,Alignment - Safety
+renValueBenchComprehensivelyEvaluating2024,Alignment,Alignment,,Alignment - Alignment
+wangDecodingTrustComprehensiveAssessment2023,Alignment,Alignment,,Alignment - Alignment
+chakrabortyCounterTuringTest2023,NLP,Detection,,NLP - Detection
+tuWaterBenchHolisticEvaluation2024,NLP,Detection,,NLP - Detection
+liDataCompLMSearchNext2024,,,,
+luoMMMRSMultimodalMultiGSD2024,Grounding,,,Image Processing - 
+devriesDUMBBenchmarkSmart2023,NLP,Understanding,Multilinguality,NLP - Understanding
+toyerTensorTrustInterpretable2024,Alignment,Safety,,Alignment - Safety
+mackoMULTITuDELargescaleMultilingual2023,NLP,Detection,,NLP - Detection
+ahujaMEGAVERSEBenchmarkingLarge2024,NLP,,Multilinguality,NLP - 
+sukthankerHWGPTbenchHardwareawareArchitecture2024,,,,
+shiriEmpiricalAnalysisSpatial2024,Reasoning,Spatial,,Reasoning - Spatial
+yingMMTbenchComprehensiveMultimodal2024,Reasoning,Multimodal,,Reasoning - Multimodal
+chenM3CoTNovelBenchmark2024,Reasoning,Multimodal,,Reasoning - Multimodal
+yinLAMMLanguageassistedMultimodal2023,,,,
+ohERBenchEntityRelationshipBased2024,Factuality,,,
+liuMMDUMultiturnMultiimage2024,User Interaction,,,User Interaction - 
+zhangM3ExamMultilingualMultimodal2023,Language Modelling,,Multilinguality,Language Modelling - 
+khandekarMedCalcBenchEvaluatingLarge2024,Medicine,,,Medicine - 
+liCanLanguageModels2023,Grounding,,,Grounding - 
+chenGMAImmbenchComprehensiveMultimodal2024,,,,
+liMediQQuestionAskingLLMs2024,Medicine,,,Medicine - 
+wuMedJourneyBenchmarkEvaluation2024,Medicine,,,Medicine - 
+fenogenovaMERAComprehensiveLLM2024,NLP,,Multilinguality,NLP - 
+zambranochavesRaLEsBenchmarkRadiology2023,Medicine,,,Medicine - 
+sivasubramaniamSM3TexttoQuerySyntheticMultiModel2024,Medicine,,,Medicine - 
+liuBenchmarkingLargeLanguage2023,Medicine,,,Medicine - 
+xiaCARESComprehensiveBenchmark2024,Medicine,,,Medicine - 
+wangCMBComprehensiveMedical2024,Medicine,,,Medicine - 
+kweonEHRNoteQALLMBenchmark2024,Medicine,,,Medicine - 
+trivediAppWorldControllableWorld2024,Agents,Coding,,Agents - Coding
+liuLargeLanguageModels2024,Medicine,,,Medicine - 
+sunMeasuringEffectInfluential2023,NLP,Understanding,,NLP - Understanding
+liLexEvalComprehensiveChinese2024,Law,,,Law - 
+kohVisualWebArenaEvaluatingMultimodal2024,Agents,Web,,Agents - Web
+khanXCodeEvalExecutionbasedLarge2024,Code Generation,,,Code Generation - 
+yoranAssistantBenchCanWeb2024,Agents,Web,,Agents - Web
+guoRedCodeRiskyCode2024,Agents,Coding,,Agents - Coding
+liEvaluatingInstructionfollowingRobustness2024,Instruction Following,,,Instruction Following - 
+caoSpider2vHowFar2024,Agents,Coding,,Agents - Coding
+liskaStreamingQABenchmarkAdaptation2022,,,,
+akyurekDUnEDatasetUnified2023,,,,
+chengCanWeEdit2023,,,,
+sheScoNeBenchmarkingNegation2023,NLP,Understanding,,NLP - Understanding
+zhongMQuAKEAssessingKnowledge2023,,,,
+wuAKEWAssessingKnowledge2024,,,,
+wangMULFEMultilevelBenchmark2024,,,,
+huangVLKEBLargeVisionlanguage2024,,,,
+liuWe`reAfraidLanguage2023,NLP,Understanding,,NLP - Understanding
+zhouWebArenaRealisticWeb2024,Agents,Web,,Agents - Web
+yinALCUNALargeLanguage2023,Language Modelling,Updating,,Language Modelling - Updating
+drouinWorkArenaHowCapable2024,Agents,Web,,Agents - Web
+hallVisoGenderDatasetBenchmarking2023,Alignment,Bias,,Alignment - Bias
+hanInstinctiveBiasSpurious2024,Alignment,Bias,,Alignment - Bias
+wattsPARIKSHALargescaleInvestigation2024,LLM as a Judge,,Multilinguality,LLM as a Judge - 
+esiobuROBBIERobustBias2023,Alignment,Bias,,Alignment - Bias
+boisvertWorkArenaCompositionalPlanning2024,Agents,Web,,Agents - Web
+wangGTABenchmarkGeneral2024,Agents,Tool Use,,Agents - Tool Use
+liPrivLMbenchMultilevelPrivacy2024,,,,
+bassaniGuardBenchLargescaleBenchmark2024,,,,
+liuNLEBench+NorGLMComprehensiveEmpirical2024,NLP,,Multilinguality,NLP - 
+levySafeTextBenchmarkExploring2022,Alignment,Safety,,Alignment - Safety
+mireshghallahCanLLMsKeep2024,Alignment,Alignment,,Alignment - Alignment
+parkOpenKoLLMLeaderboard2024,NLP,,Multilinguality,NLP - 
+fanR2HBuildingMultimodal2023,Agents,General,,Agents - General
+chiPLUELanguageUnderstanding2023,Law,,,Law - 
+aggarwalIndicXNLIEvaluatingMultilingual2022,NLP,Understanding,,NLP - Understanding
+sanchetiAgentspecificDeonticModality2022,Law,,,Law - 
+kotoLargeLanguageModels2023,NLP,Understanding,Multilinguality,NLP - Understanding
+braunAGBDECorpusAutomated2024,Law,,,Law - 
+aroraHaveLLMsAdvanced2023,Reasoning,Mathematical,,Reasoning - Mathematical
+doddapaneniLeavingNoIndic2023,NLP,Understanding,Multilinguality,NLP - Understanding
+zhouHAZARDChallengeEmbodied2024,Agents,,,Agents - 
+yangCanLargeLanguage2024,Language Modelling,Robustness,,Language Modelling - Robustness
+guoCanLlmsSolve2024,Biology,,,Biology - 
+felknerWinoQueerCommunityintheloopBenchmark2023,Alignment,Bias,,Alignment - Bias
+mathaiKGymPlatformDataset2024,Agents,Coding,,Agents - Coding
+liFRoGEvaluatingFuzzy2024,Reasoning,Mathematical,,Reasoning - Mathematical
+lalorBenchmarkingIntersectionalBiases2022,,,,
+dingEasy2HardbenchStandardizedDifficulty2024,Reasoning,Logical,,Reasoning - Logical
+chalkidisFairLexMultilingualBenchmark2022,,,,
+maLargeLanguageModels2024,Reasoning,Planning,,Reasoning - Planning
+liAPIbankComprehensiveBenchmark2023,Agents,Tool Use,,Agents - Tool Use
+wenBenchmarkingComplexInstructionfollowing2024,Instruction Following,,,Instruction Following - 
+zhengJudgingLLMasajudgeMTbench2023,Alignment,Alignment,User Interaction,Alignment - Alignment
+tamkinTaskAmbiguityHumans2023,Language Modelling,Robustness,,Language Modelling - Robustness
+heOlympiadBenchChallengingBenchmark2024,Reasoning,Mathematical,,Reasoning - Mathematical
+yuALERTAdaptLanguage2023,,,,
+shiLanguageModelsAre2023,Reasoning,Mathematical,Multilinguality,Reasoning - Mathematical
+liHaluEvalLargescaleHallucination2023,Language Modelling,Hallucination,,Language Modelling - Hallucination
+mialonGAIABenchmarkGeneral2024,Agents,,,Agents - 
+sunHeadtotailHowKnowledgeable2024,Language Modelling,Hallucination,,Language Modelling - Hallucination
+monteiroRepLiQAQuestionansweringDataset2024,Retrieval,,,Retrieval - 
+salemiLaMPWhenLarge2024,Alignment,Alignment,,Alignment - Alignment
+zhangCLAMBERBenchmarkIdentifying2024,,Robustness,,
+chenExploringPotentialLarge2024,Reasoning,,,Reasoning - 
+abdinKITABEvaluatingLLMs2024,Instruction Following,,,Instruction Following - 
+kasnerTraditionalBenchmarksAnalyzing2024,,,,
+xiaSportQABenchmarkSports2024,Sports,,,Sports - 
+xiongTRIGOBenchmarkingFormal2023,Reasoning,Mathematical,,Reasoning - Mathematical
+chenTheoremQATheoremdrivenQuestion2023,Reasoning,Logical,,Reasoning - Logical
+huangOlympicArenaBenchmarkingMultidiscipline2024,Reasoning,,,Reasoning - 
+friederMathematicalCapabilitiesChatGPT2023,Reasoning,Mathematical,,Reasoning - Mathematical
+aroraCausalGymBenchmarkingCausal2024,,,,
+mishraNumGLUESuiteFundamental2022,Reasoning,Mathematical,,Reasoning - Mathematical
+kazemiBoardgameQADatasetNatural2023,Reasoning,,,Reasoning - 
+leiterPrExMeLargeScale2024,NLP,Summarization,,NLP - Summarization
+sahooIndiBiasBenchmarkDataset2024,Alignment,Bias,,Alignment - Bias
+marchiorimanerbaSocialBiasProbing2024,Alignment,Bias,,Alignment - Bias
+xieTravelPlannerBenchmarkRealworld2024,Reasoning,Planning,,Reasoning - Planning
+marraffiniGreatestGoodBenchmark2024,Alignment,Alignment,,Alignment - Alignment
+zhangSafetyBenchEvaluatingSafety2024,Alignment,Safety,,Alignment - Safety
+sunFevalAsssessingFundamental2024,NLP,,Multilinguality,NLP - 
+laineMeMyselfAI2024,Agents,,,Agents - 
+basuAPIBLENDComprehensiveCorpora2024,Agents,Tool Use,,Agents - Tool Use
+chevalierLanguageModelsScience2024,User Interaction,,General Science,User Interaction - 
+bhuiyaSeeminglyPlausibleDistractors2024,Reasoning,,,Reasoning - 
+pratoLargeLanguageModels2024,Language Modelling,Hallucination,,Language Modelling - Hallucination
+huangFlamesBenchmarkingValue2024,Alignment,Alignment,Multilinguality,Alignment - Alignment
+baiMTbench101FinegrainedBenchmark2024,User Interaction,,,User Interaction - 
+boginSUPEREvaluatingAgents2024,Agents,,,Agents - 
+youLLMevolveEvaluationLLM`s2024,,,,
+wangAppBenchPlanningMultiple2024,Agents,Tool Use,,Agents - Tool Use
+chenLLMArenaAssessingCapabilities2024,Reasoning,Planning,,Reasoning - Planning
+nangiaCrowSpairsChallengeDataset2020,Alignment,Bias,,Alignment - Bias
+chenBenchmarkingRobustnessAdaptation2023,,,,
+gaoEnablingLargeLanguage2023,Retrieval,,,Retrieval - 
+dumpalaSUGARCREPEDatasetVisionlanguage2024,Language Modelling,Robustness,,Language Modelling - Robustness
+tanDevBenchMultimodalDevelopmental2024,Language Modelling,,,Language Modelling - 
+morabitoSTOPBenchmarkingLarge2024,Alignment,Bias,,Alignment - Bias
+liangUHGEvalBenchmarkingHallucination2024,Language Modelling,Hallucination,,Language Modelling - Hallucination
+diaoDoolittleBenchmarksCorpora2023,NLP,,,NLP - 
+liCanLLMAlready2023,Code Generation,,,Code Generation - 
+bittonWinoGAViLGamifiedAssociation2022,Reasoning,Commonsense,,Reasoning - Commonsense
+zhaoCould`veAskedThat2024,,NLP,Understanding,
+moneaGlitchMatrixLocating2024,,Grounding,,
+halevyFlexTapeCan`t2024,Alignment,Bias,,Alignment - Bias
+labanSummEditsMeasuringLLM2023,NLP,,,NLP - 
+xiangCAREMIChineseBenchmark2023,Knowledge,,,Knowledge - 
+buchmannAttributeAbstainLarge2024,Retrieval,,,Retrieval - 
+pratoEpiKevalEvaluationLanguage2023,Retrieval,,,Retrieval - 
+liuAlignBenchBenchmarkingChinese2024,Alignment,Alignment,Multilinguality,Alignment - Alignment
+ramprasadAnalyzingLLMBehavior2024,NLP,Summarization,,NLP - Summarization
+chenFELMBenchmarkingFactuality2023,Language Modelling,Hallucination,,Language Modelling - Hallucination
+lanCriticEvalEvaluatingLargescale2024,LLM as a Judge,,,LLM as a Judge - 
+chenCrosscareAssessingHealthcare2024,Alignment,Bias,,Alignment - Bias
+wanFactualityTaxDiversityintervened2024,Alignment,Bias,,Alignment - Bias
+zengMRbenMetareasoningBenchmark2024,Reasoning,,,Reasoning - 
+maharanaEvaluatingVeryLongterm2024,NLP,Long Context,,NLP - Long Context
+jhaSeeGULLStereotypeBenchmark2023,Alignment,Bias,,Alignment - Bias
+zouLargeScaleSearch2022,,,,
+hendrycksAligningAIShared2020,Alignment,Alignment,,Alignment - Alignment
+panRewardsJustifyMeans2023,Alignment,Alignment,,Alignment - Alignment
+smitShouldWeBe2024,,,,
+xuDPOSuperiorPPO2024,,,,
+wangSciBenchEvaluatingCollegelevel2024,Reasoning,,,Reasoning - 
+chenWeakevalstrongEvaluatingEliciting2024,Reasoning,,,Reasoning - 
+chiyah-garciaRepairsBlockWorld2024,NLP,Understanding,,NLP - Understanding
+hawkinsInvestigatingRepresentationsVerb2020,,,,
